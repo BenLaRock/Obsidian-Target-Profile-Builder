@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImportantNotes.md",
+                "file": "People/Arron Gaines.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ImportantNotes.md",
+                "file": "People/Arron Gaines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ImportantNotes.md",
+                "file": "People/Arron Gaines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ImportantNotes.md"
+                "file": "People/Arron Gaines.md"
               }
             }
           }
@@ -149,16 +149,23 @@
   },
   "active": "99894647c6680c7a",
   "lastOpenFiles": [
-    "Places/WhitleyApartments.md",
+    "Places/30 Rockefeller Plaza.md",
+    "ImportantNotes.md",
+    "Places/Whitley Apartments.md",
+    "Places/Burnet Road Business Park.md",
+    "Places/350 Central Park West Apartments.md",
+    "People/Arron Gaines.md",
+    "Identifiers/+1 (472)-217-7096.md",
+    "Identifiers/mglanman@mycbt(.)me.md",
+    "Identifiers/+1 (539)-514-7562.md",
+    "People/Kevin Ellison.md",
+    "People/Jan Jackson.md",
+    "People/Wilfredo Goodman.md",
+    "People/Elsie Graves.md",
+    "Arron Gaines.md",
     "Whitley_Apartments.JPG.md",
-    "Places/BurnetRoadBusinessPark.md",
-    "Places/350CentralParkWestApartments.md",
-    "Places/30RockefellerPlaza.md",
     "Identifiers/senftube@mycbt(.)me.md",
     "Identifiers/senftube@gdlcasas(.)com.md",
-    "Identifiers/mglanman@mycbt(.)me.md",
-    "Identifiers/+1539-514-7562.md",
-    "Identifiers/+1472-217-7096.md",
     "Assets/WilfredGoodman.jpg",
     "Assets/WhitleyApartments.JPG",
     "Assets/KevinEllison.jpg",
@@ -168,16 +175,10 @@
     "Assets/ArronGaines.jpg",
     "Assets/350CentralParkWestApartments.JPG",
     "Assets/30RockefellerPlaza.JPG",
-    "People/Wilfredo-Goodman.md",
-    "People/Kevin-Ellison.md",
-    "People/Jan-Jackson.md",
-    "People/Elsie-Graves.md",
-    "People/Arron-Gaines.md",
     "Assets/Arron-Gaines.jpg.md",
     "Arron_Gaines.jpg.md",
     "Places",
     "New folder",
-    "ImportantNotes.md",
     "People/ArronGaines.md",
     "People",
     "Identifiers",

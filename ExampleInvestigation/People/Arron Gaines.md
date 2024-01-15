@@ -17,16 +17,16 @@ tags:
 
 ## Identifiers
 - `Email Address` *probably uses* [[mglanman@mycbt(.)me]]
-- `Phone Number` [[+1472-217-7096]]
+- `Phone Number` [[+1 (472)-217-7096]]
 - `Phone Number` +1(202)-918-2132
 
 ## Locations
 - `Residence Name` [[350 Central Park West Apartments]]
 - `Residence Address` 350 Central Park West, New York, NY 10025
 - `Residence Coordinates` 40.79078819123121, -73.96568568759587
-- `Residence Map` <br> ![[350_Central_Park_West_Apartments.JPG | 500]]
+- `Residence Map` <br> ![[350CentralParkWestApartments.JPG| 500]]
 - `Work Name` undetermined organization at [[30 Rockefeller Plaza]]
 - `Work Address` 30 Rockefeller Plaza, New York, NY 10112
 - `Work Coordinates` 40.758941635700246, -73.97900684718394
-- `Work Map` <br> ![[30_Rockefeller_Plaza.JPG | 500]]
+- `Work Map` <br> ![[30RockefellerPlaza.JPG| 500]]
 

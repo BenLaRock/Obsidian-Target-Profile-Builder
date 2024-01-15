@@ -19,7 +19,7 @@ tags:
 ## Identifiers
 - `Email Address` [[senftube@mycbt(.)me]]
 - `Email Address` [[senftube@gdlcasas(.)com]]
-- `Phone Number` [[+1539-514-7562]]
+- `Phone Number` [[+1 (539)-514-7562]]
 
 ## Locations
 - `Residence Name` [[Whitley Apartments]]
