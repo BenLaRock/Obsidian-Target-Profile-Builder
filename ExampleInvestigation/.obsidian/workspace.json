@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "f737221b82b83d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "845b01d8b21703de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99894647c6680c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ImportantNotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c32f08935862625a",
+    "type": "split",
+    "children": [
+      {
+        "id": "98842900d8e515eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0975cabdf01df96f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dce95535a506e72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8af5308c57bd1f29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a98b9e38b5dd9be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8b02916832f137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7181ebd589333d4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ImportantNotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3544b2bc9107c9a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ImportantNotes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4bf5f4ed28785c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "630fc445a5fd6343",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ImportantNotes.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99894647c6680c7a",
+  "lastOpenFiles": [
+    "Places/WhitleyApartments.md",
+    "Whitley_Apartments.JPG.md",
+    "Places/BurnetRoadBusinessPark.md",
+    "Places/350CentralParkWestApartments.md",
+    "Places/30RockefellerPlaza.md",
+    "Identifiers/senftube@mycbt(.)me.md",
+    "Identifiers/senftube@gdlcasas(.)com.md",
+    "Identifiers/mglanman@mycbt(.)me.md",
+    "Identifiers/+1539-514-7562.md",
+    "Identifiers/+1472-217-7096.md",
+    "Assets/WilfredGoodman.jpg",
+    "Assets/WhitleyApartments.JPG",
+    "Assets/KevinEllison.jpg",
+    "Assets/JanJackson.jpg",
+    "Assets/ElsieGraves.jpg",
+    "Assets/BurnetRoadBusinessPark.JPG",
+    "Assets/ArronGaines.jpg",
+    "Assets/350CentralParkWestApartments.JPG",
+    "Assets/30RockefellerPlaza.JPG",
+    "People/Wilfredo-Goodman.md",
+    "People/Kevin-Ellison.md",
+    "People/Jan-Jackson.md",
+    "People/Elsie-Graves.md",
+    "People/Arron-Gaines.md",
+    "Assets/Arron-Gaines.jpg.md",
+    "Arron_Gaines.jpg.md",
+    "Places",
+    "New folder",
+    "ImportantNotes.md",
+    "People/ArronGaines.md",
+    "People",
+    "Identifiers",
+    "Assets"
+  ]
+}
